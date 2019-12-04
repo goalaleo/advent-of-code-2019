@@ -1,4 +1,4 @@
 # How to run
 ```
-ruby fuel.rb modules.txt
+ruby fuel-v1.rb "../modules.txt"
 ```
